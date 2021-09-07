@@ -13,13 +13,11 @@ listening to the netlink, and does not fork.
 
 * Installation
   ------------
-
  See the INSTALL file.
 
 
 * Contact information
   -------------------
-
  Laurent Bercot <ska-skaware at skarnet.org>
 
  Please use the <skaware at list.skarnet.org> mailing-list for
