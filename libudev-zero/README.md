@@ -51,7 +51,6 @@ make PREFIX=/usr install
 ```
 
 ## Hotplugging
-
 Note that hotplugging support is fully optional. You can skip
 this step if you don't have a need for the hotplugging capability.
 
@@ -71,7 +70,7 @@ for example how it could be implemented in C.
 Don't hesitate to ask me everything you don't understand. I'm usually hanging
 around in #kisslinux at libera.chat, but you can also email me or open an issue here.
 
-## Future directions
+## Future 
 
 1. Write a better cross-platform(*nix, maybe macos and windows) device enumeration library.
 2. Convince mainstream apps(libinput, wlroots, ...) to use new library instead of libudev.
