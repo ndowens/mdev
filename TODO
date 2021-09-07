@@ -2,4 +2,3 @@
 - Migrate to busybox's uevent helper which listens on netlink and then runs mdev for each of the notification.
 - usb mode switch
 - Consider using 'add' >event instead of `mdev -s` as we could use the $DEVNAME and $DEVPATH.
-
