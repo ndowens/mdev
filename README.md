@@ -1,7 +1,5 @@
 # libudev-zero
-
 Drop-in replacement for `libudev` intended to work with any device manager
-
 ## Why?
 
 Because `udev` sucks, it is bloated and overengineered. `udev` is just
